@@ -1,1 +1,2 @@
 this is a test txt file named synergy.txt
+making some changes in the file, yseeee
